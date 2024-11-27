@@ -4,7 +4,7 @@ autores: Daniel Arce, Oscar Penagos
 <br>
 1.<br>
 ![image](https://github.com/user-attachments/assets/04c385f5-a0dd-4c5c-ba0d-20640447b68b)
-2.<br>
+<br>2.<br>
 ![image](https://github.com/user-attachments/assets/46e68cc7-81d2-4e43-99f5-f10f253145b2)
 3.<br>
 ![image](https://github.com/user-attachments/assets/4ede488e-293d-47a5-a467-6b052cc4b0fe)
