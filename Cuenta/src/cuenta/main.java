@@ -49,17 +49,57 @@ public class main {
                                 }
                             }
                             case 2 -> {
+                                System.out.println("Para confirmar su identidad y proteger su cuenta necesitamos que ingrese su cedula nuevamente: ");
+                                int m = a.nextInt();
+                                System.out.println("Ahora ingrese su contraseña: ");
+                                int f = a.nextInt();
+                                if(m==n1.getCedula() && f== cuenta1.getContraseña()){
+                                    System.out.println("El saldo de su cuenta es: "+cuenta1.getSaldo());
+                                
+                                }
                             }
                             case 3->{
+                                System.out.println("Para confirmar su identidad y proteger su cuenta necesitamos que ingrese su cedula nuevamente: ");
+                                int m = a.nextInt();
+                                System.out.println("Ahora ingrese su contraseña: ");
+                                int f = a.nextInt();
+                                if(m==n1.getCedula() && f== cuenta1.getContraseña()){
+                                    System.out.println("El saldo de su cuenta es: "+cuenta1.getSaldo());
+                                
+                                }
 
                             }
                             case 4->{
+                                System.out.println("Para confirmar su identidad y proteger su cuenta necesitamos que ingrese su cedula nuevamente: ");
+                                int m = a.nextInt();
+                                System.out.println("Ahora ingrese su contraseña: ");
+                                int f = a.nextInt();
+                                if(m==n1.getCedula() && f== cuenta1.getContraseña()){
+                                    System.out.println("El saldo de su cuenta es: "+cuenta1.getSaldo());
+                                
+                                }
 
                             }
                             case 5->{
+                                System.out.println("Para confirmar su identidad y proteger su cuenta necesitamos que ingrese su cedula nuevamente: ");
+                                int m = a.nextInt();
+                                System.out.println("Ahora ingrese su contraseña: ");
+                                int f = a.nextInt();
+                                if(m==n1.getCedula() && f== cuenta1.getContraseña()){
+                                    System.out.println("El saldo de su cuenta es: "+cuenta1.getSaldo());
+                                
+                                }
 
                             }
                             case 6->{
+                                System.out.println("Para confirmar su identidad y proteger su cuenta necesitamos que ingrese su cedula nuevamente: ");
+                                int m = a.nextInt();
+                                System.out.println("Ahora ingrese su contraseña: ");
+                                int f = a.nextInt();
+                                if(m==n1.getCedula() && f== cuenta1.getContraseña()){
+                                    System.out.println("El saldo de su cuenta es: "+cuenta1.getSaldo());
+                                
+                                }
 
                             }
                             case 7->{
