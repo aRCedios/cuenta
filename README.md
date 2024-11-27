@@ -1,5 +1,5 @@
 # cuenta
-<br>
+
 autores: Daniel Arce, Oscar Penagos
 <br>
 1.<br>
